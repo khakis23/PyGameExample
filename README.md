@@ -1,7 +1,5 @@
 ## How to Run
 
----
-
 1. Activate a new Python virtual environment using **Python 3.12.X** (3.13+ not compatible yet!) 
 2. Install PyGame in your virtual terminal:
 
@@ -21,8 +19,6 @@
 **space** — shoot lasers
 
 ## Basic Structure
-
----
 
 1. Check events
     - key strokes, mouse clicks, optional custom events
