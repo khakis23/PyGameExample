@@ -120,10 +120,6 @@ def gameOver():
             break
 
 
-"""
-    All funcs below could be written by student.
-"""
-
 def spawnEnemy():
     global spawn_time, enemy_speed
 
